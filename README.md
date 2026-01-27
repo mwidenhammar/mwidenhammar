@@ -27,10 +27,11 @@
 | | |
 |:--|:--|
 | **Name** | Markus Widenhammar |
-| **Location** | Gothenburg, Sweden 🇸🇪 |
-| **Languages** | Swedish, English, Portuguese (Highschool-Level German & Spanish) |
+| **Email** | m.widenhammar@gmail.com |
+| **Location** | Gothenburg, Sweden |
+| **Languages** | Swedish, English, Portuguese • Highschool-Level German & Spanish |
 | **Education** | MSc Human-Centered AI • BSc Cognitive Science |
-| **Focus** | Human-AI Interaction, Innovation, XAI, Inclusive Design, Sustainable AI |
+| **Focus** | HCI, Innovation, NLP, XAI, Inclusive Design, Sustainability |
 | **Philosophy** | *"Technology should adapt to people, not the other way around."* |
 
 <br/>
@@ -103,6 +104,7 @@
 
 *"Understanding minds to build better machines"*
 
-[![LinkedIn](https://img.shields.io/badge/-Markus_Widenhammar-1a1a2e?style=flat&logo=linkedin&logoColor=4dabf7)](http://linkedin.com/in/markus-widenhammar-07312b123)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/markus-widenhammar-07312b123)
+
 
 </div>
