@@ -76,7 +76,7 @@
 | Project | Description | Stack |
 |:-------:|:------------|:-----:|
 | [**📚 Reminisce**](https://reminisce-project.lovable.app) | AI-powered reminiscence therapy platform for older adults | `AI` `UX` `Accessibility` |
-| [**🌍 Muni Compass**](https://muni-compass-project.lovable.app) | Sustainability analysis tool for municipalities | `Data Viz` `Sustainability` |
+| [**🌍 Muni Compass**](https://muni-compass-project.lovable.app) | Sustainability/Coherence analysis tool for Swedish municipalities | `Data Viz` `Sustainability` |
 | [**🪴 GU Go Green**](https://www.figma.com/design/WUo1JaN3yp94bH51Q1rTzT/Sustainability-project--Copy-?node-id=0-1&t=pWx7ibaIjV5WMUDp-1) | A gamified app encouraging sustainable habits among GU students | `Gameification` `Sustainability` |
 
 </div>
