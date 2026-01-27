@@ -36,11 +36,11 @@
   About Me
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <pre style="background-color:#0d0d0d;color:#f5f5f5;padding:15px;border-radius:10px;">
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+<pre style="background-color:#0d0d0d;color:#f5f5f5;padding:15px;border-radius:10px;">
 name: Markus Widenhammar
 location: Sweden
 current_role: MSc Student in Human-Centered Artificial Intelligence
@@ -52,10 +52,12 @@ focus:
   - Data Analysis
   - Sustainability & Innovation
   - Human–Computer Interaction
-        </pre>
-      </td>
-      <td width="50%" valign="top">
-        <pre style="background-color:#0d0d0d;color:#f5f5f5;padding:15px;border-radius:10px;">
+</pre>
+
+    </td>
+    <td width="50%" valign="top">
+
+<pre style="background-color:#0d0d0d;color:#f5f5f5;padding:15px;border-radius:10px;">
 class Student:
     def __init__(self):
         self.name = "Markus Widenhammar"
@@ -70,11 +72,11 @@ class Student:
     
     def say_hi(self):
         print("Excited to explore AI solutions for people and society!")
-        </pre>
-      </td>
-    </tr>
-  </table>
-</div>
+</pre>
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -91,13 +93,13 @@ class Student:
 
 <div align="center">
   
-  <a href="https://reminisce-project.lovable.app">
-    <img src="https://img.shields.io/badge/🧠_Reminisce-AI-powered_Reminiscence_Therapy-8b5cf6?style=for-the-badge" alt="Reminisce"/>
-  </a>
-  &nbsp;
-  <a href="https://muni-compass-project.lovable.app">
-    <img src="https://img.shields.io/badge/🌍_Muni-Compass-Sustainability_Analysis_Tool-8b5cf6?style=for-the-badge" alt="Muni Compass"/>
-  </a>
+<a href="https://reminisce-project.lovable.app">
+  <img src="https://img.shields.io/badge/🧠_Reminisce-AI-powered_Reminiscence_Therapy-8b5cf6?style=for-the-badge&logo=appveyor&logoColor=white" alt="Reminisce"/>
+</a>
+&nbsp;
+<a href="https://muni-compass-project.lovable.app">
+  <img src="https://img.shields.io/badge/🌍_Muni-Compass-Sustainability_Analysis_Tool-8b5cf6?style=for-the-badge&logo=appveyor&logoColor=white" alt="Muni Compass"/>
+</a>
 
 </div>
 
