@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://reminisce-project.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=safari&logoColor=e94560" alt="Portfolio"/>
-</a>
 
 </div>
 
