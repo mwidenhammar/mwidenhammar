@@ -98,7 +98,7 @@
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1f7a6b,100:3ecf8e,100:1a1a2e&height=100&section=footer"/>
 
 <div align="center">
 
