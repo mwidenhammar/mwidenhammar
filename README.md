@@ -5,7 +5,7 @@
 
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=500&lines=MSc+Human-Centered+AI+%7C+Gothenburg+University;BSc+Cognitive+Science+%7C+Mind+%2B+Machine;Designing+AI+That+Understands+People" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=500&lines=MSc+Human-Centered+AI+%7C+Gothenburg+University;BSc+Cognitive+Science+%7C+Mind/Psychology+%2B+Human-Computer-Interaction;Human+In+The+Loop" alt="Typing SVG" />
 </a>
 
 <br/><br/>
