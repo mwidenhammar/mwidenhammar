@@ -18,6 +18,10 @@
   <a href="http://linkedin.com/in/markus-widenhammar-07312b123">
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=8b5cf6" alt="Portfolio"/>
+  </a>
 
   <br/><br/>
 
@@ -39,7 +43,6 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-
 <pre style="background-color:#0d0d0d;color:#f5f5f5;padding:15px;border-radius:10px;">
 name: Markus Widenhammar
 location: Sweden
@@ -53,10 +56,8 @@ focus:
   - Sustainability & Innovation
   - Human–Computer Interaction
 </pre>
-
     </td>
     <td width="50%" valign="top">
-
 <pre style="background-color:#0d0d0d;color:#f5f5f5;padding:15px;border-radius:10px;">
 class Student:
     def __init__(self):
@@ -73,10 +74,57 @@ class Student:
     def say_hi(self):
         print("Excited to explore AI solutions for people and society!")
 </pre>
-
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%"/>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24">
+  Tech Stack
+</h2>
+
+<div align="center">
+
+<!-- AI & ML -->
+<h4>🤖 AI & Machine Learning</h4>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Systems-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8b5cf6?style=for-the-badge&logoColor=white"/>
+
+<!-- Languages -->
+<h4>💻 Languages</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<!-- Frontend -->
+<h4>🌐 Frontend</h4>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<!-- Backend & Databases -->
+<h4>⚙️ Backend & Databases</h4>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<!-- Tools -->
+<h4>🔧 Tools & DevOps</h4>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
 
 <br/>
 
@@ -106,7 +154,7 @@ class Student:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                               FOOTER                                       -->
+<!--                                FOOTER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer"/>
