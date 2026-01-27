@@ -91,7 +91,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=4dabf7)
 ![SPSS](https://img.shields.io/badge/SPSS-1a1a2e?style=flat-square&logo=ibm&logoColor=4dabf7)
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=4dabf7)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=4dabf7)
 
 </div>
 
