@@ -30,7 +30,7 @@
 | **Location** | Gothenburg, Sweden 🇸🇪 |
 | **Languages** | Swedish, English, Portuguese (Highschool-Level German & Spanish) |
 | **Education** | MSc Human-Centered AI • BSc Cognitive Science |
-| **Focus** | Human-AI Interaction, Cognitive Modeling, XAI, Inclusive Design, AI Ethics |
+| **Focus** | Human-AI Interaction, Innovation, XAI, Inclusive Design, Sustainable AI |
 | **Philosophy** | *"Technology should adapt to people, not the other way around."* |
 
 <br/>
