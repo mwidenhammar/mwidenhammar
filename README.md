@@ -14,6 +14,10 @@
 <a href="http://linkedin.com/in/markus-widenhammar-07312b123">
   <img src="https://img.shields.io/badge/Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560" alt="LinkedIn"/>
 </a>
+
+<a href="http://linkedin.com/in/markus-widenhammar-07312b123">
+  <img src="https://img.shields.io/badge/Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560" alt="LinkedIn"/>
+</a>
 &nbsp;
 
 </div>
