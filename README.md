@@ -28,7 +28,7 @@
 |:--|:--|
 | **Name** | Markus Widenhammar |
 | **Location** | Gothenburg, Sweden 🇸🇪 |
-| **Languages** | Swedish, English |
+| **Languages** | Swedish, English, Portuguese (Highschool-Level German & Spanish |
 | **Education** | MSc Human-Centered AI • BSc Cognitive Science |
 | **Focus** | Human-AI Interaction, Cognitive Modeling, XAI, Inclusive Design, AI Ethics |
 | **Philosophy** | *"Technology should adapt to people, not the other way around."* |
