@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1f7a6b,100:3ecf8e,100:0f3460&height=400&section=header&text=Markus%20Widenhammar&fontSize=100&fontColor=4dabf7&animation=fadeIn&fontAlignY=55&desc=Human-Centered%20AI%20%E2%80%A2%20Cognitive%20Science&descSize=30&descAlignY=80&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1f7a6b,100:3ecf8e,100:0f3460&height=260&section=header&text=Markus%20Widenhammar&fontSize=60&fontColor=4dabf7&animation=fadeIn&fontAlignY=48&desc=Human-Centered%20AI%20%E2%80%A2%20Cognitive%20Science&descSize=20&descAlignY=72&descAlign=50"/>
 
 
 <!-- Animated Tagline -->
