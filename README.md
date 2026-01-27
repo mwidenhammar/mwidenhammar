@@ -88,9 +88,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4dabf7)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=4dabf7)
-![SPSS](https://img.shields.io/badge/SPSS-1a1a2e?style=flat-square&logo=ibm&logoColor=4dabf7)
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=4dabf7)
+![SPSS](https://img.shields.io/badge/SPSS-1a1a2e?style=flat-square&logo=ibm&logoColor=4dabf7)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=4dabf7)
 
 </div>
 
