@@ -78,7 +78,7 @@
 | [**📚 Reminisce**](https://reminisce-project.lovable.app) | AI-powered reminiscence therapy platform for older adults | `AI` `UX` `Accessibility` |
 | [**🌍 Muni Compass**](https://muni-compass-project.lovable.app) | Sustainability/Coherence analysis tool for Swedish municipalities | `Data Viz` `Sustainability` |
 | [**🪴 GU Go Green**](https://www.figma.com/design/WUo1JaN3yp94bH51Q1rTzT/Sustainability-project--Copy-?node-id=0-1&t=pWx7ibaIjV5WMUDp-1) | A gamified app encouraging sustainable habits among GU students | `Gameification` `Sustainability` |
-| [**🌟 VerifiGAME**] (https://www.linkedin.com/posts/markus-widenhammar-07312b123_wow-what-an-inspiring-week-im-incredibly-activity-7329435678969110529-R3KH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB5z6JcBY8_z5HFGs51y2IQ8ckjNGeEjAiI) | Gamifying media literacy to make AI fact-checking accessible | `Innovation-Challenge` `media-litteracy` `Majority Vote Winner` |
+| [**🌟 VerifiGAME**](https://www.linkedin.com/posts/markus-widenhammar-07312b123_wow-what-an-inspiring-week-im-incredibly-activity-7329435678969110529-R3KH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB5z6JcBY8_z5HFGs51y2IQ8ckjNGeEjAiI) | Gamifying media literacy to make AI fact-checking accessible | `Innovation-Challenge` `media-litteracy` `Majority Vote Winner` |
 
 </div>
 
