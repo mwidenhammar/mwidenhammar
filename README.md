@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Markus%20Widenhammar&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=45&desc=Human-Centered%20AI%20%E2%80%A2%20Cognitive%20Science&descSize=16&descAlignY=68&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&text=Markus%20Widenhammar&fontSize=42&fontColor=2ecc71&animation=fadeIn&fontAlignY=45&desc=Human-Centered%20AI%20%E2%80%A2%20Cognitive%20Science&descSize=16&descAlignY=68&descAlign=50"/>
 
 <!-- Animated Tagline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1200&color=E94560&center=true&vCenter=true&repeat=true&width=500&lines=MSc+Human-Centered+AI+%7C+Gothenburg+University;BSc+Cognitive+Science+%7C+Mind+%2B+HCI+Sustainability;Human+In+The+Loop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3500&pause=1200&color=2ecc71&center=true&vCenter=true&repeat=true&width=500&lines=MSc+Human-Centered+AI+%7C+Gothenburg+University;BSc+Cognitive+Science+%7C+Mind+%2B+HCI+Sustainability;Human+In+The+Loop" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Contact Badges -->
 <a href="http://linkedin.com/in/markus-widenhammar-07312b123">
-  <img src="https://img.shields.io/badge/Connect_With_Me-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_With_Me-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=2ecc71" alt="LinkedIn"/>
 </a>
 
 &nbsp;
@@ -42,23 +42,23 @@
 <table>
 <tr>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/anthropic/e94560" width="40" height="40" alt="HAI"/><br/>
+<img src="https://cdn.simpleicons.org/anthropic/2ecc71" width="40" height="40" alt="HAI"/><br/>
 <b>Human-AI<br/>Interaction</b>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/coursera/e94560" width="40" height="40" alt="CogSci"/><br/>
+<img src="https://cdn.simpleicons.org/coursera/2ecc71" width="40" height="40" alt="CogSci"/><br/>
 <b>Cognitive<br/>Science</b>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/figma/e94560" width="40" height="40" alt="UX"/><br/>
+<img src="https://cdn.simpleicons.org/figma/2ecc71" width="40" height="40" alt="UX"/><br/>
 <b>UX/UI<br/>Design</b>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/chartdotjs/e94560" width="40" height="40" alt="Data"/><br/>
+<img src="https://cdn.simpleicons.org/chartdotjs/2ecc71" width="40" height="40" alt="Data"/><br/>
 <b>Data<br/>Analysis</b>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/leaflet/e94560" width="40" height="40" alt="Sustainable"/><br/>
+<img src="https://cdn.simpleicons.org/leaflet/2ecc71" width="40" height="40" alt="Sustainable"/><br/>
 <b>Sustainable<br/>Tech</b>
 </td>
 </tr>
@@ -87,11 +87,11 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=e94560)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=e94560)
-![SPSS](https://img.shields.io/badge/SPSS-1a1a2e?style=flat-square&logo=ibm&logoColor=e94560)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=e94560)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=e94560)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=2ecc71)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=2ecc71)
+![SPSS](https://img.shields.io/badge/SPSS-1a1a2e?style=flat-square&logo=ibm&logoColor=2ecc71)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=2ecc71)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=2ecc71)
 
 </div>
 
@@ -104,6 +104,6 @@
 
 *"Understanding minds to build better machines"*
 
-[![LinkedIn](https://img.shields.io/badge/-Markus_Widenhammar-1a1a2e?style=flat&logo=linkedin&logoColor=e94560)](http://linkedin.com/in/markus-widenhammar-07312b123)
+[![LinkedIn](https://img.shields.io/badge/-Markus_Widenhammar-1a1a2e?style=flat&logo=linkedin&logoColor=2ecc71)](http://linkedin.com/in/markus-widenhammar-07312b123)
 
 </div>
