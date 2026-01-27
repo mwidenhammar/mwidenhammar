@@ -97,14 +97,14 @@
 
 <br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1f7a6b,100:3ecf8e,100:1a1a2e&height=100&section=footer"/>
-
-<div align="center">
 
 *"Understanding minds to build better machines"*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/markus-widenhammar-07312b123)
 
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:1f7a6b,100:3ecf8e,100:1a1a2e&height=100&section=footer"/>
+
+<div align="center">
 
 </div>
