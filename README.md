@@ -12,7 +12,9 @@
 <br/><br/>
 
 <!-- Contact Badges -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<a href="https://www.linkedin.com/in/markus-widenhammar-07312b123/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Markus%20Widenhammar-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=4dabf7"/>
+</a>
 <a href="http://linkedin.com/in/markus-widenhammar-07312b123">
   <img src="https://img.shields.io/badge/Connect_With_Me-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=4dabf7" alt="LinkedIn"/>
 </a>
