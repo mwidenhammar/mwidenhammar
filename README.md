@@ -107,6 +107,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/markus-widenhammar-07312b123)
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/markus-widenhammar-07312b123/">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-4dabf7?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <br/>
+  <sub>Markus Widenhammar · Human-Centered AI · Cognitive Science</sub>
+</div>
 
 </div>
