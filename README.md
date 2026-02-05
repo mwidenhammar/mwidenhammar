@@ -106,9 +106,7 @@
 *"Understanding minds to build better machines"*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/markus-widenhammar-07312b123)
-<a href="https://www.linkedin.com/in/markus-widenhammar-07312b123/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Markus%20Widenhammar-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=4dabf7"/>
-</a>
+
 
 
 </div>
